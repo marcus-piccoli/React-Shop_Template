@@ -1,3 +1,57 @@
+# Projeto de Template de Compras/Vendas
+
+Este projeto é um template para uma página de compras/vendas desenvolvido em React. Foi criado durante um curso oferecido pelo portal Ada.tech.
+
+## Sobre o Projeto
+
+Este projeto é um template para uma página de compras/vendas. Ele foi desenvolvido usando React, uma biblioteca JavaScript para construção de interfaces de usuário. O objetivo do projeto é fornecer um ponto de partida para desenvolvedores que desejam criar um site de comércio eletrônico.
+
+O projeto também utiliza outras tecnologias importantes, como Yarn para gerenciamento de pacotes, Styled Components para estilização e React Icons para ícones. Os dados dos produtos foram obtidos de uma página chamada FakeAPI.
+
+## Como Usar
+
+Para usar este template, siga estas etapas:
+
+1. Clone o repositório
+2. Instale as dependências com `yarn install`
+3. Inicie o servidor de desenvolvimento com `yarn start`
+
+## Instalação de Pacotes Adicionais
+
+Se você precisar instalar pacotes adicionais, você pode fazer isso com o seguinte comando: `yarn add nome-do-pacote`
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+# Shopping/Selling Template Project
+
+This project is a template for a shopping/selling page developed in React. It was created during a course offered by the Ada.tech portal.
+
+## About the Project
+
+This project is a template for a shopping/selling page. It was developed using React, a JavaScript library for building user interfaces. The goal of the project is to provide a starting point for developers who want to create an e-commerce website.
+
+The project also uses other important technologies, such as Yarn for package management, Styled Components for styling, and React Icons for icons. The product data was obtained from a page called FakeAPI.
+
+## How to Use
+
+To use this template, follow these steps:
+
+1. Clone the repository
+2. Install the dependencies with `yarn install`
+3. Start the development server with `yarn start`
+
+## Installation of Additional Packages
+
+If you need to install additional packages, you can do so with the following command: `yarn add package-name`
+
+## License
+
+This project is licensed under the MIT license.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
