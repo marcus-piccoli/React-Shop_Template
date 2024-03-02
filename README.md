@@ -1,4 +1,4 @@
-# Projeto de Template de Compras/Vendas
+# Projeto Template de Compras/Vendas
 
 Este projeto é um template para uma página de compras/vendas desenvolvido em React. Foi criado durante um curso oferecido pelo portal Ada.tech.
 
